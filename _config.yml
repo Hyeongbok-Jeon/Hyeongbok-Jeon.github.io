@@ -4,6 +4,7 @@ description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://hyeongbok-jeon.github.io"
+baseurl:            "/hyeongbok-jeon"
 
 # Social Profiles
 twitter_username:   SBootstrap
