@@ -2,8 +2,8 @@
 title: "[강의 정리] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술"
 search: true
 categories: 
-  - 스터디
-last_modified_at: 2023-10-13 09:12:00 +0900
+  - 백엔드 공부
+last_modified_at: 2023-10-23 14:26:00 +0900
 ---
 
 #### 섹션 0. 강의 소개
@@ -151,3 +151,10 @@ setter 주입 - set함수가 public으로 되어있어야되기때문에 다른 
 
  JPA를 사용하면 SQL 보다는 객체 중심으로 고민을 할 수 있음  
  SQL과 데이터 중심 설계에서 객체 중심의 설계로 패러다임 전환
+
+#### 섹션 7. AOP
+
+AOP  
+Aspect Oriented Programming
+관점지향 프로그래밍
+공통 관심사항과 핵심 관심사항을 분리
